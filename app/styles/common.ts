@@ -1,7 +1,7 @@
 export const styles = {
   container: "container mx-auto px-4 py-10",
   section: "mb-12",
-  sectionTitle: "text-2xl font-semibold text-gray-900 dark:text-white mb-6 text-center",
+  sectionTitle: "text-2xl font-bold text-gray-900 mb-6 text-center",
   card: "bg-white dark:bg-gray-800 shadow-md rounded-lg p-6 transition-transform hover:scale-105",
   cardTitle: "text-xl font-semibold text-gray-900 dark:text-white mb-2",
   cardSubtitle: "text-gray-600 dark:text-gray-400 mb-1",
